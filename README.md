@@ -1,5 +1,10 @@
+
+
 ### Hi there 👋
 
+### Metrics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangmy21&layout=compact)](https://github.com/xiangmy21/github-readme-stats)
 <!--
 **xiangmy21/xiangmy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
